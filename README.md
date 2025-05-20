@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there this is me Susmita Kamal Aspiring Engineering Student👋
 
 <!--
 **susmitakamal551/susmitakamal551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an student
+- 🔭 I’m currently working as aTn student
 - 🌱 I’m currently learning Graphics Designing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
